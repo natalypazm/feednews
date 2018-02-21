@@ -1,0 +1,56 @@
+body{background:#ccc;}
+/*.container {
+  margin: 0 auto;
+  padding: 40px;
+  width: 80%;
+  color: #333;
+  background: #419be0;
+}*/
+.carousel-hero img{
+	height:500px;
+	width:1400px;
+}
+.inner-addon {
+  position: relative;
+  top: 3px;
+}
+.inner-addon .glyphicon {
+  position: absolute;
+  padding:6px;
+  pointer-events: none;
+  height: 5px;
+}
+.left-addon .glyphicon {
+  left: 3px;
+  font-size: 10px;
+}
+.buscador{
+	border-radius:20px;
+	border: 1px solid;
+	padding-left: 20px;
+}
+.padre{display:inline-flex;}
+.option-section{
+	border-radius:20px;
+	padding:5px 60px;
+	margin:0px 20px;
+}
+.industria{	
+	background:#f6007b;
+	border: 1px solid #f6007b;
+	color:#fff;
+}
+.linea{
+	border: 2px solid #9e9e9e;
+	height: 1px;
+	width: 400px;
+	top: 15px;
+	position: relative;
+}
+.button-section{background:#fff;}
+.button-section button{border-radius:20px;padding:1px 15px;color:#fff;}
+.ocio{
+	background:#233ea5;
+	border: 1px solid #233ea5;
+}
+.box-noticia{background:#fff;}
