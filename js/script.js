@@ -1,16 +1,16 @@
-/*$(document).ready(function(){
-  $('.single-item').slick({
+//$(document).ready(function(){
+  /*$('.single-item').slick({
   dots:false,
   arrows:false,
   centerMode: true,
   autoplay: true,
   mobileFirst     : true,
-  autoplaySpeed: 2000,
+  autoplaySpeed: 8000,
   slidesToShow: 1,
-  });
+  });*/
   //$('.single-item').slickLightbox();
 
-});*/
+//});
 
 $(document).ready(function(){
   $('.carousel-hero').slick({
