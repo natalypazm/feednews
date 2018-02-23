@@ -11,7 +11,7 @@ body{background:#ececec;font-size:13px;}
 .ajustes ul{margin-bottom:0px;}
 .ajustes ul li{display:inline-block;padding:0 10px;color:#8f8989;}
 .options div{background:#c3bfbf;padding:15px;font-weight:bolder;text-align:center;}
-.options div:hover{background-color:#000 !important;color:#fff;border:1px solid;}
+.options div:hover{background-color:#000 !important;color:#fff;transition:0.5s all;}
 a{text-decoration:none !important;}
 .carousel-hero .slick-slide{max-height:500px;}
 .carousel-hero img{height:auto;width:1400px;}
@@ -29,6 +29,9 @@ a{text-decoration:none !important;}
 .ocio{background:#233ea5;border: 1px solid #233ea5;}
 .box-noticia{background:#fff;box-shadow:0 5px 5px 0 rgba(0,0,0,0.1);margin-top:60px;}
 .box-general{padding:20px;}
+.single-item a:first-child img{position: absolute;
+    width: 370px;
+    height: 220px;}
 .title-noticia h4{margin-bottom:0px;}
 .box-noticia span{color:#ccc;font-size:13px;}
 .count-icon{padding:5px 0;}

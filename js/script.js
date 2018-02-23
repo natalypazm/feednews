@@ -25,4 +25,10 @@ $(document).ready(function(){
   adaptiveHeight: true,
 	});
 });
-	
+
+/*$(".publicar").click(function(e){
+var id = $(this).data("id");
+var input = "#input-"+id;
+//alert($(input).val());
+$('#body-comentario').appendTo($(input).val());
+});*/
